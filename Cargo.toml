@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "two-sum",
+  "palindrome-number",
+  "roman-to-integer",
+]
